@@ -1,5 +1,7 @@
 # Massdrop CTRL Keyboard Splash LED
 
+## To change key bindings, modify `\keyboards\massdrop\ctrl\keymaps\custom\keymap.c`, then run `make massdrop/ctrl:custom` from the root directory. Load compiled firmware as usual.
+
 ## The rainbow color is now made brighter! (closer to what the default pattern looks)
 (but because I quite like the original one, I am going to add toggle switch)
 
